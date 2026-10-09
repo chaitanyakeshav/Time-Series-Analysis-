@@ -1,6 +1,6 @@
 # Econometrics - Time Series Analysis
 
-I recently taught a postgraduate Econometrics course at **Patna Women’s College**, and developed these Jupyter notebooks as complementary learning resources for my lectures.
+I recently taught a postgraduate Econometrics course at **Patna Women’s College** (CC 311 Unit 5), and developed these Jupyter notebooks as complementary learning resources for my lectures.
 
 They cover key concepts in Time Series Analysis through mathematical explanations, Python implementation, visualisations, and practical examples. While designed to support classroom teaching, they may also be useful for anyone beginning to learn TSA independently.
 
